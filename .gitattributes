@@ -1,3 +1,4 @@
-.*php linguist-detectable=true
-.*html linguist-detectable=true
+*.php             text diff=php
 .*css linguist-detectable=true
+*.xhtml           text diff=html
+*.sql             text
